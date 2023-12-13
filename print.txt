@@ -1,0 +1,53 @@
+Last Scan Date: 2023/12/13 16:43:56
+FOUND MALWARE(s) COUNT:51
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\a.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\a.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\b.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\boyut1.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\boyut2.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\data
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\directory\a.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\directory\b.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\directory\boyut1.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\a.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\a.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\b.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\boyut1.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\boyut2.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\data
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\hello.c
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\hello.o
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\hello.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\HW3.pdf
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\Makefile.jpg
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\md5_results.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\TEST\a.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\TEST\b.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\TEST\boyut1.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\test.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya\uzun.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\a.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\a.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\b.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\boyut1.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\boyut2.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\data
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\hello.c
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\hello.o
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\hello.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\HW3.pdf
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\Makefile.jpg
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\md5_results.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\TEST\a.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\TEST\b.bat
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\TEST\boyut1.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\test.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\gksDir\testedilecekdosya (copy)\uzun.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\hello.c
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\hello.o
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\hello.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\HW3.pdf
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\Makefile.jpg
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\md5_results.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\test.txt
+ **REMOVED!  Path: C:\Users\mgoek\Desktop\BIL495_Bitirme_Projesi\BIL495_Bitirme_Projesi\TESTET\uzun.txt
